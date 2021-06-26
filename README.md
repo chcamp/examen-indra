@@ -1,2 +1,2 @@
 # examen-indra
-Examen de indra para Telefónica, Rolando Christian Campos Angulo.
+Examen de indra, Rolando Christian Campos Angulo.
